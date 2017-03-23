@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/sur06/androproj.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/internhpe-2017/Android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\andro2" />
